@@ -1,0 +1,41 @@
+# Diretório de build do Maven
+/target/
+
+# Diretórios e arquivos do IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Configurações temporárias do sistema
+*.swp
+*.swo
+*.tmp
+
+# Diretórios Eclipse/IDEA (se usados)
+.project
+.classpath
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de debug ou de relance do Spring
+hs_err_pid*
+
+# Arquivos gerados do Maven
+dependency-reduced-pom.xml
+release.properties
+/.mvn/
+
+# Credenciais locais
+*.env
+.env*
+
+# Diretórios de cache do Gradle ou Maven caso sejam usados (adicionalmente)
+.gradle/
+!gradle-wrapper.jar
+.mvn/
+*.nowebcache
