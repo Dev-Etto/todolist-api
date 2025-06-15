@@ -68,5 +68,3 @@ Abaixo estão alguns dos endpoints disponíveis na API:
 - **Atualizar uma tarefa:** `PUT /tasks/{id}`
 - **Deletar uma tarefa:** `DELETE /tasks/{id}`
 - **Obter detalhes de um usuário:** `GET /users/{id}`
-
-### Exemplo básico de payload para criação de uma tarefa:
